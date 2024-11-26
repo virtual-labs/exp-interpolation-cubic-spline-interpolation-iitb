@@ -1,0 +1,20 @@
+[
+   {
+      "question": "What is the natural cubic spline at g(0.66) and g(1.75)? <br><br> <img src='./lab-manual/images/post_image1.png' style='width:50%; margin-left:15%'",
+      "qid": 1,
+      "option_a": "g(0.66) = 3.4355, g(1.75) = 14.6577",
+      "option_b": "g(0.66) = 7.4311, g(1.75) = 20.5186",
+      "option_c": "g(0.66) = 4.4385, g(1.75) = 17.6712",
+      "option_d": "g(0.66) = 5.9527, g(1.75) = 23.3741",
+      "correct_option": "b"
+   },
+   {
+      "question": "What is the natural cubic spline at g(0.66) and g(1.75)? <br><br> <img src='./lab-manual/images/post_image1.png' style='width:50%; margin-left:15%'",
+      "qid": 2,
+      "option_a": "g(0.66) = 5.4485, g(1.75) = 14.6137",
+      "option_b": "g(0.66) = 2.4289, g(1.75) = 20.5613",
+      "option_c": "g(0.66) = 4.2319, g(1.75) = 11.8261",
+      "option_d": "g(0.66) = 7.4623, g(1.75) = 27.6131",
+      "correct_option": "a"
+   }
+]
