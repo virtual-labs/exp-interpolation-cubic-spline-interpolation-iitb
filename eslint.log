@@ -1,0 +1,271 @@
+
+/home/runner/work/exp-interpolation-cubic-spline-interpolation-iitb/exp-interpolation-cubic-spline-interpolation-iitb/experiment/simulation/common_libraries/js/ts_components/collapse_step.js
+   1:10  warning  'show_step' is defined but never used                 no-unused-vars
+   2:5   warning  '$' is not defined                                    no-undef
+   3:9   warning  '$' is not defined                                    no-undef
+   6:10  warning  'hide_step' is defined but never used                 no-unused-vars
+   7:5   warning  '$' is not defined                                    no-undef
+   8:9   warning  '$' is not defined                                    no-undef
+  11:10  warning  'get_collapse_btn_text' is defined but never used     no-unused-vars
+  20:10  warning  'get_collapse_btn_element' is defined but never used  no-unused-vars
+  29:10  warning  'hide_all_steps' is defined but never used            no-unused-vars
+  31:9   warning  '$' is not defined                                    no-undef
+
+/home/runner/work/exp-interpolation-cubic-spline-interpolation-iitb/exp-interpolation-cubic-spline-interpolation-iitb/experiment/simulation/common_libraries/js/ts_components/matrix.js
+   27:26  warning  'MathJax' is not defined                                no-undef
+   32:7   warning  'Matrix_Without_String' is defined but never used       no-unused-vars
+   52:26  warning  'MathJax' is not defined                                no-undef
+   56:10  warning  'get_matrix_html' is defined but never used             no-unused-vars
+   87:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+   99:10  warning  'get_matrix_html_with_title' is defined but never used  no-unused-vars
+  131:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+  143:10  warning  'convert_2d_to_1d_vector' is defined but never used     no-unused-vars
+  156:10  warning  'convert_1d_to_2d_matrix' is defined but never used     no-unused-vars
+
+/home/runner/work/exp-interpolation-cubic-spline-interpolation-iitb/exp-interpolation-cubic-spline-interpolation-iitb/experiment/simulation/common_libraries/js/ts_components/pannel.js
+  8:7  warning  'Pannel' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-interpolation-cubic-spline-interpolation-iitb/exp-interpolation-cubic-spline-interpolation-iitb/experiment/simulation/common_libraries/js/ts_components/questions.js
+   6:17  warning  'op1' is assigned a value but never used      no-unused-vars
+   7:17  warning  'op2' is assigned a value but never used      no-unused-vars
+   8:17  warning  'op3' is assigned a value but never used      no-unused-vars
+   9:17  warning  'op4' is assigned a value but never used      no-unused-vars
+  94:7   warning  'Question_Options' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-interpolation-cubic-spline-interpolation-iitb/exp-interpolation-cubic-spline-interpolation-iitb/experiment/simulation/common_libraries/js/ts_components/tables.js
+   19:22  warning  'verify_values' is not defined                                     no-undef
+  137:22  warning  'verify_values' is not defined                                     no-undef
+  260:7   warning  'Verify_Rows_Cols_6_decimal_places' is defined but never used      no-unused-vars
+  311:22  warning  'verify_values' is not defined                                     no-undef
+  416:7   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is defined but never used  no-unused-vars
+  468:7   warning  'Show_Table_Custom_Fixed' is defined but never used                no-unused-vars
+  506:7   warning  'Verify_Rows_Cols_Strings' is defined but never used               no-unused-vars
+  527:22  warning  'verify_values' is not defined                                     no-undef
+  663:7   warning  'Display_Table' is defined but never used                          no-unused-vars
+
+/home/runner/work/exp-interpolation-cubic-spline-interpolation-iitb/exp-interpolation-cubic-spline-interpolation-iitb/experiment/simulation/common_libraries/js/ts_math_library/general_math_functions.js
+    1:10  warning  'verify_values' is defined but never used                   no-unused-vars
+   17:10  warning  'random1' is defined but never used                         no-unused-vars
+   21:10  warning  'std_deviation' is defined but never used                   no-unused-vars
+   26:10  warning  'gauss' is defined but never used                           no-unused-vars
+   56:10  warning  'hide_panel' is defined but never used                      no-unused-vars
+   63:10  warning  'inverse_matrix' is defined but never used                  no-unused-vars
+   96:10  warning  'matrix_multiplication' is defined but never used           no-unused-vars
+  113:10  warning  'transpose_matrix' is defined but never used                no-unused-vars
+  123:10  warning  'matrix_multiplication_8decimal' is defined but never used  no-unused-vars
+  140:10  warning  'adjoint_2x2_matrix' is defined but never used              no-unused-vars
+  145:10  warning  'find_deteminant' is defined but never used                 no-unused-vars
+  174:10  warning  'get_Submatrix' is defined but never used                   no-unused-vars
+
+/home/runner/work/exp-interpolation-cubic-spline-interpolation-iitb/exp-interpolation-cubic-spline-interpolation-iitb/experiment/simulation/common_libraries/js/ts_math_library/regression.js
+   1:10  warning  'regression_linear' is defined but never used            no-unused-vars
+  18:10  warning  'regression_linear_1variable' is defined but never used  no-unused-vars
+  27:10  warning  'regression_linear_2variable' is defined but never used  no-unused-vars
+  52:11  warning  'gauss' is not defined                                   no-undef
+
+/home/runner/work/exp-interpolation-cubic-spline-interpolation-iitb/exp-interpolation-cubic-spline-interpolation-iitb/experiment/simulation/common_libraries/math.ob.js
+  1:745  warning  'b' is already defined  no-redeclare
+
+/home/runner/work/exp-interpolation-cubic-spline-interpolation-iitb/exp-interpolation-cubic-spline-interpolation-iitb/experiment/simulation/js/activity1.js
+   14:9    warning  'MathJax' is not defined                                no-undef
+   18:10   warning  'start_act1' is defined but never used                  no-unused-vars
+   23:20   warning  'get_collapse_btn_text' is not defined                  no-undef
+   35:19   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is not defined  no-undef
+   35:65   warning  'table_data1' is not defined                            no-undef
+   38:5    warning  'hide_all_steps' is not defined                         no-undef
+   40:9    warning  'MathJax' is not defined                                no-undef
+   43:9    warning  'show_step' is not defined                              no-undef
+   47:17   warning  'random1' is not defined                                no-undef
+   49:25   warning  'table_data1' is not defined                            no-undef
+   50:43   warning  'table_data1' is not defined                            no-undef
+   50:73   warning  'table_data1' is not defined                            no-undef
+   51:9    warning  'table_data1' is not defined                            no-undef
+   53:25   warning  'table_data1' is not defined                            no-undef
+   54:19   warning  'table_data1' is not defined                            no-undef
+   55:13   warning  'table_data1' is not defined                            no-undef
+   58:23   warning  'table_data1' is not defined                            no-undef
+   58:47   warning  'table_data1' is not defined                            no-undef
+   59:18   warning  'table_data1' is not defined                            no-undef
+   59:42   warning  'table_data1' is not defined                            no-undef
+   60:13   warning  'table_data1' is not defined                            no-undef
+   61:13   warning  'h' is not defined                                      no-undef
+   61:20   warning  'table_data1' is not defined                            no-undef
+   61:44   warning  'table_data1' is not defined                            no-undef
+   64:5    warning  'H' is not defined                                      no-undef
+   65:15   warning  'h' is not defined                                      no-undef
+   65:22   warning  'h' is not defined                                      no-undef
+   65:29   warning  'h' is not defined                                      no-undef
+   66:10   warning  'h' is not defined                                      no-undef
+   66:21   warning  'h' is not defined                                      no-undef
+   66:28   warning  'h' is not defined                                      no-undef
+   68:5    warning  'C' is not defined                                      no-undef
+   69:15   warning  'table_data1' is not defined                            no-undef
+   69:35   warning  'table_data1' is not defined                            no-undef
+   70:15   warning  'table_data1' is not defined                            no-undef
+   70:35   warning  'table_data1' is not defined                            no-undef
+   74:5    warning  'table_data2' is not defined                            no-undef
+   75:19   warning  'C' is not defined                                      no-undef
+   75:28   warning  'C' is not defined                                      no-undef
+   76:20   warning  'gauss' is not defined                                  no-undef
+   76:26   warning  'H' is not defined                                      no-undef
+   77:5    warning  'S' is not defined                                      no-undef
+   78:5    warning  's' is not defined                                      no-undef
+   78:20   warning  'S' is not defined                                      no-undef
+   78:29   warning  'S' is not defined                                      no-undef
+   79:25   warning  'table_data1' is not defined                            no-undef
+   80:9    warning  'a' is not defined                                      no-undef
+   80:17   warning  's' is not defined                                      no-undef
+   80:28   warning  's' is not defined                                      no-undef
+   80:41   warning  'h' is not defined                                      no-undef
+   81:9    warning  'b' is not defined                                      no-undef
+   81:16   warning  's' is not defined                                      no-undef
+   82:9    warning  'c' is not defined                                      no-undef
+   83:14   warning  'table_data1' is not defined                            no-undef
+   83:38   warning  'table_data1' is not defined                            no-undef
+   83:59   warning  'h' is not defined                                      no-undef
+   84:22   warning  'h' is not defined                                      no-undef
+   84:29   warning  's' is not defined                                      no-undef
+   84:36   warning  'h' is not defined                                      no-undef
+   84:43   warning  's' is not defined                                      no-undef
+   85:9    warning  'd' is not defined                                      no-undef
+   85:16   warning  'table_data1' is not defined                            no-undef
+   88:16   warning  'table_data1' is not defined                            no-undef
+   88:40   warning  'table_data1' is not defined                            no-undef
+   89:27   warning  'a' is not defined                                      no-undef
+   89:49   warning  'table_data1' is not defined                            no-undef
+   89:96   warning  'b' is not defined                                      no-undef
+   89:118  warning  'table_data1' is not defined                            no-undef
+   89:165  warning  'c' is not defined                                      no-undef
+   89:187  warning  'table_data1' is not defined                            no-undef
+   89:222  warning  'd' is not defined                                      no-undef
+   91:9    warning  'table_data2' is not defined                            no-undef
+   93:5    warning  'g066' is not defined                                   no-undef
+   94:9    warning  'a' is not defined                                      no-undef
+   95:13   warning  'b' is not defined                                      no-undef
+   96:13   warning  'c' is not defined                                      no-undef
+   97:13   warning  'd' is not defined                                      no-undef
+   98:5    warning  'g175' is not defined                                   no-undef
+   99:9    warning  'a' is not defined                                      no-undef
+  100:13   warning  'b' is not defined                                      no-undef
+  101:13   warning  'c' is not defined                                      no-undef
+  102:13   warning  'd' is not defined                                      no-undef
+  111:10   warning  'load_verify_h' is defined but never used               no-unused-vars
+  144:10   warning  'a1_verify_h' is defined but never used                 no-unused-vars
+  148:17   warning  'h' is not defined                                      no-undef
+  149:10   warning  'verify_values' is not defined                          no-undef
+  149:50   warning  'h' is not defined                                      no-undef
+  158:10   warning  'verify_values' is not defined                          no-undef
+  158:50   warning  'h' is not defined                                      no-undef
+  167:10   warning  'verify_values' is not defined                          no-undef
+  167:50   warning  'h' is not defined                                      no-undef
+  181:47   warning  'h' is not defined                                      no-undef
+  182:47   warning  'h' is not defined                                      no-undef
+  183:47   warning  'h' is not defined                                      no-undef
+  189:10   warning  'load_verify_H' is defined but never used               no-unused-vars
+  196:13   warning  Unnecessary escape character: \×                        no-useless-escape
+  220:19   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is not defined  no-undef
+  220:65   warning  'H' is not defined                                      no-undef
+  227:9    warning  'MathJax' is not defined                                no-undef
+  233:19   warning  'Matrix' is not defined                                 no-undef
+  233:33   warning  'H' is not defined                                      no-undef
+  240:10   warning  'load_verify_c' is defined but never used               no-unused-vars
+  268:19   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is not defined  no-undef
+  268:65   warning  'C' is not defined                                      no-undef
+  272:9    warning  'MathJax' is not defined                                no-undef
+  279:19   warning  'Matrix' is not defined                                 no-undef
+  279:33   warning  'C' is not defined                                      no-undef
+  286:10   warning  'load_verify_s' is defined but never used               no-unused-vars
+  307:19   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is not defined  no-undef
+  307:65   warning  'S' is not defined                                      no-undef
+  311:9    warning  'MathJax' is not defined                                no-undef
+  317:19   warning  'Matrix' is not defined                                 no-undef
+  317:33   warning  'S' is not defined                                      no-undef
+  324:10   warning  'load_interval1_verify' is defined but never used       no-unused-vars
+  380:9    warning  'MathJax' is not defined                                no-undef
+  383:10   warning  'a1_verify_int1' is defined but never used              no-unused-vars
+  388:17   warning  'a' is not defined                                      no-undef
+  388:23   warning  'b' is not defined                                      no-undef
+  388:29   warning  'c' is not defined                                      no-undef
+  388:35   warning  'd' is not defined                                      no-undef
+  389:10   warning  'verify_values' is not defined                          no-undef
+  389:60   warning  'a' is not defined                                      no-undef
+  398:10   warning  'verify_values' is not defined                          no-undef
+  398:60   warning  'b' is not defined                                      no-undef
+  407:10   warning  'verify_values' is not defined                          no-undef
+  407:60   warning  'c' is not defined                                      no-undef
+  416:10   warning  'verify_values' is not defined                          no-undef
+  416:60   warning  'd' is not defined                                      no-undef
+  431:46   warning  'a' is not defined                                      no-undef
+  432:46   warning  'b' is not defined                                      no-undef
+  433:46   warning  'c' is not defined                                      no-undef
+  434:46   warning  'd' is not defined                                      no-undef
+  481:10   warning  'a1_verify_int2' is defined but never used              no-unused-vars
+  486:17   warning  'a' is not defined                                      no-undef
+  486:23   warning  'b' is not defined                                      no-undef
+  486:29   warning  'c' is not defined                                      no-undef
+  486:35   warning  'd' is not defined                                      no-undef
+  487:10   warning  'verify_values' is not defined                          no-undef
+  487:60   warning  'a' is not defined                                      no-undef
+  496:10   warning  'verify_values' is not defined                          no-undef
+  496:60   warning  'b' is not defined                                      no-undef
+  505:10   warning  'verify_values' is not defined                          no-undef
+  505:60   warning  'c' is not defined                                      no-undef
+  514:10   warning  'verify_values' is not defined                          no-undef
+  514:60   warning  'd' is not defined                                      no-undef
+  529:46   warning  'a' is not defined                                      no-undef
+  530:46   warning  'b' is not defined                                      no-undef
+  531:46   warning  'c' is not defined                                      no-undef
+  532:46   warning  'd' is not defined                                      no-undef
+  579:10   warning  'a1_verify_int3' is defined but never used              no-unused-vars
+  584:17   warning  'a' is not defined                                      no-undef
+  584:23   warning  'b' is not defined                                      no-undef
+  584:29   warning  'c' is not defined                                      no-undef
+  584:35   warning  'd' is not defined                                      no-undef
+  585:10   warning  'verify_values' is not defined                          no-undef
+  585:60   warning  'a' is not defined                                      no-undef
+  594:10   warning  'verify_values' is not defined                          no-undef
+  594:60   warning  'b' is not defined                                      no-undef
+  603:10   warning  'verify_values' is not defined                          no-undef
+  603:60   warning  'c' is not defined                                      no-undef
+  612:10   warning  'verify_values' is not defined                          no-undef
+  612:60   warning  'd' is not defined                                      no-undef
+  627:46   warning  'a' is not defined                                      no-undef
+  628:46   warning  'b' is not defined                                      no-undef
+  629:46   warning  'c' is not defined                                      no-undef
+  630:46   warning  'd' is not defined                                      no-undef
+  636:10   warning  'load_interval_table' is defined but never used         no-unused-vars
+  668:19   warning  'Display_Table' is not defined                          no-undef
+  668:41   warning  'table_data2' is not defined                            no-undef
+  671:9    warning  'MathJax' is not defined                                no-undef
+  674:10   warning  'a1_verify_g' is defined but never used                 no-unused-vars
+  677:17   warning  'g066' is not defined                                   no-undef
+  677:23   warning  'g175' is not defined                                   no-undef
+  678:10   warning  'verify_values' is not defined                          no-undef
+  678:63   warning  'g066' is not defined                                   no-undef
+  687:10   warning  'verify_values' is not defined                          no-undef
+  687:63   warning  'g175' is not defined                                   no-undef
+  702:38   warning  'g066' is not defined                                   no-undef
+  705:39   warning  'g175' is not defined                                   no-undef
+  712:9    warning  'MathJax' is not defined                                no-undef
+  715:10   warning  'exp_complete' is defined but never used                no-unused-vars
+
+/home/runner/work/exp-interpolation-cubic-spline-interpolation-iitb/exp-interpolation-cubic-spline-interpolation-iitb/experiment/simulation/js/data.js
+   2:5  warning  'table_data1' is assigned a value but never used  no-unused-vars
+   9:5  warning  'table_data2' is assigned a value but never used  no-unused-vars
+  10:5  warning  'h' is assigned a value but never used            no-unused-vars
+  11:5  warning  'a' is assigned a value but never used            no-unused-vars
+  12:5  warning  'b' is assigned a value but never used            no-unused-vars
+  13:5  warning  'c' is assigned a value but never used            no-unused-vars
+  14:5  warning  'd' is assigned a value but never used            no-unused-vars
+  15:5  warning  's' is assigned a value but never used            no-unused-vars
+  16:5  warning  'H' is assigned a value but never used            no-unused-vars
+  17:5  warning  'C' is assigned a value but never used            no-unused-vars
+  18:5  warning  'S' is assigned a value but never used            no-unused-vars
+  19:5  warning  'g066' is defined but never used                  no-unused-vars
+  20:5  warning  'g175' is defined but never used                  no-unused-vars
+
+/home/runner/work/exp-interpolation-cubic-spline-interpolation-iitb/exp-interpolation-cubic-spline-interpolation-iitb/experiment/simulation/js/screen_size.js
+  1:10  warning  'set_screen_size' is defined but never used  no-unused-vars
+
+✖ 246 problems (0 errors, 246 warnings)
+
